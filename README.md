@@ -10,7 +10,8 @@
 #pragma config WRT = OFF        
 #pragma config CP = OFF         
 #include <xc.h>
-#define _XTAL_FREQ 20000000 // Define crystal frequency (20 MHz)
+# Define crystal frequency (20 MHz)
+#define _XTAL_FREQ 20000000
 #define RED1    RB0
 #define YELLOW1 RB1
 #define GREEN1  RB2

@@ -1,25 +1,19 @@
-Overview
+OVERVIEW
 The Two-Way Traffic Application is designed to manage and optimize traffic flow on roadways that accommodate bi-directional vehicular movement. This application aims to enhance traffic efficiency, reduce congestion, and improve safety for drivers and pedestrians by utilizing advanced algorithms and real-time data analysis.
 
-Key Features
+KEY FEATURES:
 
-Real-Time Traffic Monitoring
-
+REAL-TIME TRAFFIC MONITORING
 Live Traffic Data: Collects data from various sources such as GPS devices, traffic cameras, and sensors embedded in the road infrastructure.
+
 Traffic Density Analysis: Analyzes the number of vehicles and their speed in both directions to determine traffic density.
-Adaptive Traffic Signal Control
 
+ADAPTIVE TRAFFIC SIGNAL CONTROL
 Dynamic Signal Timing: Adjusts traffic light timings based on real-time traffic conditions to optimize flow and minimize wait times.
+
 Emergency Vehicle Priority: Provides priority passage for emergency vehicles by adjusting traffic signals accordingly.
-Route Optimization
 
+ROUTE OPTIMIZATION
 Alternative Route Suggestions: Provides drivers with alternative routes in case of heavy traffic, road closures, or accidents.
-ETA Calculation: Estimates travel time for various routes to help drivers choose the most efficient path.
-Incident Detection and Management
 
-Accident Detection: Uses data from cameras and sensors to detect accidents and automatically notify emergency services.
-Real-Time Alerts: Sends notifications to drivers about incidents ahead, allowing them to reroute if necessary.
-Pedestrian Safety
 
-Crosswalk Management: Ensures safe crossing times for pedestrians by adjusting signal phases.
-Pedestrian Alerts: Notifies drivers about pedestrian-heavy areas and potential hazards.
